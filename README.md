@@ -1,4 +1,4 @@
-vgandhi27/README.md
+
 # Hello!
 I'm Vidushi Gandhi, a CSE student at Echelon Institute of Technology, Faridabad.
 
