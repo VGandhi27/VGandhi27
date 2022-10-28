@@ -16,7 +16,7 @@
 
 ---
 
-### :woman_technologist: &nbsp;About Me(Intro) :
+### :woman_technologist: &nbsp;About Me :
 
 I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
@@ -45,7 +45,7 @@ I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### 💻 My contribution Graph:
+### 💻 My Contribution Graph:
   
    ![](https://activity-graph.herokuapp.com/graph?username=VGandhi27&theme=dracula&hide_border=true&area=true)
  
@@ -53,10 +53,21 @@ I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
    
    ---
    
-### 💻 My Github Profile Badges 🥇
+### 💻 My Github Profile Badges 🥇:
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=vgandhi27&column=8&theme=gruvbox&no-frame=true"/>
 </a>
+
+
+---
+
+### 💻 My Hackathon Profile Badges 🥇:
+
+[![@vgandhi27's Holopin board](https://holopin.me/vgandhi27)](https://holopin.io/@vgandhi27)
+
+---
+
+### 💻 My Github Metrics :
 
 <img align="right" width="300" height="300" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>
 <br>
