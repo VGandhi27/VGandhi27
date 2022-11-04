@@ -61,7 +61,7 @@ I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### 💻 My Hackathon Profile Badges 🥇:
+### 💻 My Hacktoberfest-2022 OpenSource Contribution Profile Badges 🥇:
 
 [![@vgandhi27's Holopin board](https://holopin.me/vgandhi27)](https://holopin.io/@vgandhi27)
 
