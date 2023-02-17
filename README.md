@@ -1,11 +1,11 @@
-<p style="background-color:tomato;" align="center">
-   <img height="90" width="90" src="images/left.png">
-   <img align="center" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="200" height="200" />
-<img height="90" width="90" src="images/right.png">
+<p align="center">
+<!--    <img height="90" width="90" src="images/left.png"> -->
+   <img align="center" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="400" height="400" />
+<!-- <img height="90" width="90" src="images/right.png"> -->
 </p>
-<h1 align="center">नमस्ते  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" height="20" > </h1>
+<h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" height="20" > </h1>
 <h1 align="center"> It's Vidushi Gandhi, you are on my Github Profile</h1>
-   <p>I am a B.Tech undergrad at Echelon institute of Technology, Faridabad ,India pursuing Computer Science Engineering. I am a keen learner and love gathering knowledge about new things, technologies and improve my skills with every passing day. I love to connect with new people and admire everyone having a passion for coding.</p>
+   <p>I am a B.Tech undergrad at Echelon Institute of Technology, Faridabad ,India pursuing Computer Science Engineering. I am a keen learner and love gathering knowledge about new things, technologies and improve my skills with every passing day. I love to connect with new people and admire everyone having a passion for coding.</p>
 
 <p align="center">
     Visitor count<br>
@@ -33,8 +33,21 @@ I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp; <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" **alt="mongodb" title="mongodb"/> &nbsp;   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"  width="40" height="40" **alt="expressjs" title="expressjs" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" **alt="c" title="c"  />  &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" **alt="cpp" title="cpp"  /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  width="40" height="40" **alt="python" title="python"   /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  width="40" height="40" **alt="mysql" title="mysql"  />  &nbsp;</p> 
+<img src="https://img.shields.io/badge/-ReactJs-blue?style=flat&logo=React&logoColor=white" title="React" alt="React" />&nbsp;
+<img src="https://img.shields.io/badge/-Redux-red?style=flat&logo=redux&logoColor=white" title="Redux" alt="Redux " />&nbsp;
+ <img src="https://img.shields.io/badge/-Java-purple?style=flat&logo=java&logoColor=white" title="Java" alt="Java" />&nbsp;
+ <img src="https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white" title="HTML5" alt="HTML" />&nbsp;
+ <img src="https://img.shields.io/badge/-CSS-green?style=flat&logo=css3&logoColor=white"  title="CSS3" alt="CSS" />&nbsp; 
+<img src="https://img.shields.io/badge/-Javascript-pink?style=flat&logo=Javascript&logoColor=white" title="JavaScript" alt="JavaScript" />&nbsp; 
+<img src="https://img.shields.io/badge/-NodeJs-darkgreen?style=flat&logo=javascript&logoColor=white" title="NodeJS" alt="NodeJS" />&nbsp;
+<img src="https://img.shields.io/badge/-Postman-orange?style=flat&logo=postman&logoColor=white" title="Postman"  alt="Postman" />&nbsp;  
+<img src="https://img.shields.io/badge/-Git-black?style=flat&logo=Git&logoColor=white" title="Git" **alt="Git" />&nbsp; 
+<img src="https://img.shields.io/badge/-MongoDB-blue?style=flat&logo=MongoDB&logoColor=white" **alt="mongodb" title="mongodb"/> &nbsp;
+<img src="https://img.shields.io/badge/-ExpressJs-purple?style=flat&logo=Javascript&logoColor=white"  **alt="expressjs" title="expressjs" /> &nbsp;
+<img src="https://img.shields.io/badge/-C%20programming-blue?style=flat&logo=C&logoColor=white" **alt="c" title="c"  />  &nbsp; 
+<img src="https://img.shields.io/badge/-C++%20programming-dasrkblue?style=flat&logo=Cplusplus&logoColor=white"  **alt="cpp" title="cpp"  /> &nbsp; 
+<img src="https://img.shields.io/badge/-Python-darkblue?style=flat&logo=Python&logoColor=white"  **alt="python" title="python"   /> &nbsp;
+<img src="https://img.shields.io/badge/-MySQL-red?style=flat&logo=MySQL&logoColor=white" **alt="mysql" title="mysql"  />  &nbsp;</p> 
 
 ---
 
