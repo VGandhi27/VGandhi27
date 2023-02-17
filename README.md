@@ -59,20 +59,20 @@ I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### 💻 My Contribution Graph:
-  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VGandhi27&theme=vue)
    ![](https://activity-graph.herokuapp.com/graph?username=VGandhi27&theme=dracula&hide_border=true&area=true)
- 
+  
    <br/>
    
    ---
    
-### 💻 My Github Profile Badges 🥇:
+<!-- ### 💻 My Github Profile Badges 🥇:
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=vgandhi27&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
 
----
+--- -->
 
 ### 💻 My Hacktoberfest-2022 OpenSource Contribution Profile Badges 🥇:
 
