@@ -96,11 +96,11 @@ I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### ✍️ Blog Posts : 
-- [System Software - The Beginning point of all the Computer's Systems](https://www.papersdrop.in/curiousvidushi27/system-software-the-beginning-point-of-all-the-computers-systems-/ee00b00b-f714-4e53-9214-a10788d191f4)
+- [Block Chain - The Emergence of the latest type of currency](https://vgandhi27.hashnode.dev/block-chain-the-emergence-of-the-latest-type-of-currency)
 
-- [Explain new innovation in System Software ? ](https://www.papersdrop.in/curiousvidushi27/-explain-new-innovation-in-system-software-/4390ae3d-f1fd-493e-a128-8751471d02c5)
+- [Tech opportunities in System Software Java Developer and Python Developer](https://vgandhi27.hashnode.dev/tech-opportunities-in-system-software-java-developer-and-python-developer)
 
-- [System Software Utilization In Top Reputed Tech Company](https://www.papersdrop.in/curiousvidushi27/-system-software-utilization-in-top-reputed-tech-company/aae491ec-e2ba-45df-817c-2c058a0f2ad0)
+- [System Software Utilization In Top Reputed Tech Company](https://vgandhi27.hashnode.dev/system-software-utilization-in-top-reputed-tech-company)
 
 ---
 
