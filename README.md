@@ -54,8 +54,8 @@ I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### 🔥 &nbsp; My Stats :
 
 <p width="100%" align="center">
-          <img width="43%" height="35%" src="https://github-readme-stats.vercel.app/api?username=VGandhi27&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" />
-          <img width="46%" height="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=VGandhi27&theme=dracula" />
+          <img width="49%" height="35%" src="https://github-readme-stats.vercel.app/api?username=VGandhi27&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" />
+          <img width="51%" height="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=VGandhi27&theme=dracula" />
     <img width="43%" height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgandhi27&layout=compact&theme=dracula" />
 
 </p>
