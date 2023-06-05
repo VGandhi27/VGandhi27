@@ -66,6 +66,11 @@ I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
    
    ---
    
+### 📈 My GitHub Statistics:
+![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=vgandhi27&show_icons=true&count_private=true&hide_title=true&theme=dracula)
+
+
+   
 <!-- ### 💻 My Github Profile Badges 🥇:
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=vgandhi27&column=8&theme=gruvbox&no-frame=true"/>
