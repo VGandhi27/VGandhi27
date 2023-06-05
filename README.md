@@ -52,6 +52,8 @@ I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### 🔥 &nbsp; My Stats :
+![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=vgandhi27&show_icons=true&count_private=true&hide_title=true&theme=dracula)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vgandhi27&theme=dracula)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vgandhi27&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
@@ -64,13 +66,8 @@ I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   
    <br/>
    
-   ---
-   
-### 📈 My GitHub Statistics:
-![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=vgandhi27&show_icons=true&count_private=true&hide_title=true&theme=dracula)
-
-
-   
+   ---  
+  
 <!-- ### 💻 My Github Profile Badges 🥇:
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=vgandhi27&column=8&theme=gruvbox&no-frame=true"/>
