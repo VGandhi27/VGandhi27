@@ -18,7 +18,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Full Stack Developer specialised in Machine Learning and Artificial Intelligence <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - ⚡ I like to solve real world problems with my skills by building great products
 - 🔭 I’m currently preparing for placements
