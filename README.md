@@ -96,7 +96,7 @@ I am a Full Stack Developer specialised in Machine Learning and Artificial Intel
 
 ---
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quotes
 
 <img align="right" height="100" width="100" src="https://customsitesmedia.usc.edu/wp-content/uploads/sites/308/2016/10/17131545/tumblr_o7jfjpvlny1tbhzhno1_500.gif" width="930"/>
 
@@ -113,4 +113,4 @@ I am a Full Stack Developer specialised in Machine Learning and Artificial Intel
 
 ---
 
-### Show some ❤️ by starring some of the repositories!
+### Show some love ❤️ by starring some of the repositories!
