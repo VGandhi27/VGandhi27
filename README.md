@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" height="20" > </h1>
 <h1 align="center"> It's Vidushi Gandhi, you are on my Github Profile</h1>
-   <p>I am a B.Tech undergrad at Echelon Institute of Technology, Faridabad, India pursuing Computer Science Engineering. I am a keen learner and love gathering knowledge about new things, technologies and improve my skills with every passing day. I love to connect with new people and admire everyone having a passion for coding.</p>
+   <p>I am a B.Tech undergrad at Echelon Institute of Technology, Faridabad, India pursuing Computer Science Engineering. I am a keen learner and love gathering knowledge about new things, and technologies and improving my skills with every passing day. I love to connect with new people and admire everyone having a passion for coding.</p>
 
 <p align="center">
     Visitor count<br>
@@ -18,26 +18,31 @@
 
 I am a Full Stack Developer specialised in Machine Learning and Artificial Intelligence <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- ⚡ I like to solve real world problems with my skills by building great products
+- ⚡ I like to solve real-world problems with my skills by building great products
 - 🔭 I’m currently preparing for placements
-- 🌱 I like to explore working of different products 
-- ⚡ In my free time I like to write blog on different technologies
+- 🌱 I like to explore working on different products 
+- ⚡ In my free time I like to write blogs on different technologies
 - 💬 Ask me about the recent products which I have explored and which I have found helpful.
 - 📫 How to reach me:
  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-vidushi_gandhi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vidushi-gandhi27/)  <a href="https://www.instagram.com/vgandhi72/"><img src="https://img.shields.io/badge/-@vgandhi72-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+### 🛠 &nbsp; I've worked with :
 
 <p>
 <img src="https://img.shields.io/badge/-ReactJs-blue?style=flat&logo=React&logoColor=white" title="React" alt="React" />&nbsp;
 <img src="https://img.shields.io/badge/-Redux-red?style=flat&logo=redux&logoColor=white" title="Redux" alt="Redux " />&nbsp;
+<img src="https://img.shields.io/badge/-TensorFlow-blue?style=flat&logo=TensorFlow&logoColor=white" title="TensorFlow" alt="TensorFlow" />&nbsp;
+<img src="https://img.shields.io/badge/-BlockChain-gray?style=flat&logo=BlockChain&logoColor=white" title="BlockChain" alt="BlockChain" />&nbsp;
+<img src="https://img.shields.io/badge/-FireBase-yellow?style=flat&logo=FireBase&logoColor=white" title="FireBase" alt="FireBase" />&nbsp;
  <img src="https://img.shields.io/badge/-Java-purple?style=flat&logo=java&logoColor=white" title="Java" alt="Java" />&nbsp;
  <img src="https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white" title="HTML5" alt="HTML" />&nbsp;
  <img src="https://img.shields.io/badge/-CSS-green?style=flat&logo=css3&logoColor=white"  title="CSS3" alt="CSS" />&nbsp; 
 <img src="https://img.shields.io/badge/-Javascript-pink?style=flat&logo=Javascript&logoColor=white" title="JavaScript" alt="JavaScript" />&nbsp; 
+<img src="https://img.shields.io/badge/-Rust-yellow?style=flat&logo=rust&logoColor=white" title="Rust" alt="Rust" />&nbsp; 
 <img src="https://img.shields.io/badge/-NodeJs-darkgreen?style=flat&logo=javascript&logoColor=white" title="NodeJS" alt="NodeJS" />&nbsp;
+<img src="https://img.shields.io/badge/-R-darkblue?style=flat&logo=r&logoColor=white" title="R" alt="R" />&nbsp;
 <img src="https://img.shields.io/badge/-Postman-orange?style=flat&logo=postman&logoColor=white" title="Postman"  alt="Postman" />&nbsp;  
 <img src="https://img.shields.io/badge/-Git-black?style=flat&logo=Git&logoColor=white" title="Git" **alt="Git" />&nbsp; 
 <img src="https://img.shields.io/badge/-MongoDB-blue?style=flat&logo=MongoDB&logoColor=white" **alt="mongodb" title="mongodb"/> &nbsp;
