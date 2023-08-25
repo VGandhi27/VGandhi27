@@ -24,7 +24,8 @@ I am a Full Stack Developer specialised in Machine Learning and Artificial Intel
 - ⚡ In my free time I like to write blogs on different technologies
 - 💬 Ask me about the recent products which I have explored and which I have found helpful.
 - 📫 How to reach me:
- &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-vidushi_gandhi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vidushi-gandhi27/)  <a href="https://www.instagram.com/vgandhi72/"><img src="https://img.shields.io/badge/-@vgandhi72-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+ &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-vidushi_gandhi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Vidushi-Gandhi27/)  <a href="https://www.instagram.com/vgandhi72/"><img src="https://img.shields.io/badge/-@vgandhi72-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;<a href="https://linktr.ee/vidushigandhi"><img src="https://img.shields.io/badge/-Vidushi Gandhi-Green?style=flat&logo=Linktree&logoColor=white"/></a> &nbsp;
+
 
 ---
 
