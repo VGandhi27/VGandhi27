@@ -89,7 +89,7 @@ I am a Full Stack Developer specialised in Machine Learning and Artificial Intel
 
 --- -->
 
-### 💻 My Hacktoberfest-2022 OpenSource Contribution Profile Badges 🥇:
+### 💻 My Hacktoberfest-2023 OpenSource Contribution Profile Badges 🥇:
 
 [![@vgandhi27's Holopin board](https://holopin.me/@vgandhi27)](https://holopin.io/@vgandhi27)
 ---
