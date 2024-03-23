@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" height="20" > </h1>
 <h1 align="center"> It's Vidushi Gandhi, you are on my Github Profile</h1>
-   <p>I am a B.Tech undergrad at Echelon Institute of Technology, Faridabad, India pursuing Computer Science Engineering. I am a keen learner and love gathering knowledge about new things, and technologies and improving my skills with every passing day. I love to connect with new people and admire everyone having a passion for coding.</p>
+   <p>As a final-year Computer Science and Engineering student at Echelon Institute of Technology in Faridabad, India, I am now gaining valuable practical experience as an Intern/Data Science Engineer at Iktara Data Sciences. Known for my optimism, strong work ethic, and dedication to continuous learning, I am passionate about applying theoretical knowledge to real-world challenges. Eager to further contribute and grow within an organization that fosters innovation and professional development. I am excited to leverage my skills and enthusiasm to make a meaningful impact in the technology industry.</p>
 
 <p align="center">
     Visitor count<br>
