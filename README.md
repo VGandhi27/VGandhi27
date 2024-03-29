@@ -1,5 +1,5 @@
 <p align="center">
-   <img align="center" src="https://firebasestorage.googleapis.com/v0/b/trychat-d3941.appspot.com/o/c30f5914-0089-45aa-977e-d64b5c953e3e?alt=media&token=0464b548-285d-4bbc-bd1a-f626551476a6" width="1300" height="400" />
+   <img align="center" src="https://firebasestorage.googleapis.com/v0/b/trychat-d3941.appspot.com/o/c30f5914-0089-45aa-977e-d64b5c953e3e?alt=media&token=0464b548-285d-4bbc-bd1a-f626551476a6" width="180%" height="160%" />
 </p>
 <h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" height="20" > </h1>
 <h1 align="center"> It's Vidushi Gandhi, you are on my Github Profile</h1>
