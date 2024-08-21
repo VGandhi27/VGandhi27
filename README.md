@@ -111,6 +111,8 @@ I am a Full Stack Developer specialised in Machine Learning and Artificial Intel
 ---
 
 ### ✍️ Blog Posts : 
+- [Tech Obsession: Lessons Learned At GDSC WOW Delhi NCR](https://medium.com/p/38929018e502)
+  
 - [Block Chain - The Emergence of the latest type of currency](https://vgandhi27.hashnode.dev/block-chain-the-emergence-of-the-latest-type-of-currency)
 
 - [Tech opportunities in System Software Java Developer and Python Developer](https://vgandhi27.hashnode.dev/tech-opportunities-in-system-software-java-developer-and-python-developer)
