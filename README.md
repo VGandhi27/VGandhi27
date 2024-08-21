@@ -121,4 +121,10 @@ I am a Full Stack Developer specialised in Machine Learning and Artificial Intel
 
 ---
 
+
+### ✍️ Research Paper : 
+- [Analysing the causes of Mood Disorders: A Comprehensive Study](https://ijcmps.mstrust.in/Files/Vol/Issue/ijcmps-6-1-1.pdf)
+  
+---
+
 ### Show some love ❤️ by starring some of the repositories!
