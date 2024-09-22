@@ -125,6 +125,8 @@ I am a Full Stack Developer specialised in Machine Learning and Artificial Intel
 ### ✍️ Research Paper : 
 - [Analysing the causes of Mood Disorders: A Comprehensive Study](https://ijcmps.mstrust.in/Files/Vol/Issue/ijcmps-6-1-1.pdf)
   
+- [SVM-Based Framework for Breast Cancer Detection](https://link.springer.com/chapter/10.1007/978-981-97-2508-3_13)
+  
 ---
 
 ### Show some love ❤️ by starring some of the repositories!
