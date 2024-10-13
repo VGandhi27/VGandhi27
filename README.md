@@ -3,7 +3,13 @@
 </p>
 <h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" height="20" > </h1>
 <h1 align="center"> It's Vidushi Gandhi, you are on my Github Profile</h1>
-   <p>As a final-year Computer Science and Engineering student at Echelon Institute of Technology in Faridabad, India, I am now gaining valuable practical experience as an Intern/Data Science Engineer at Iktara Data Sciences. Known for my optimism, strong work ethic, and dedication to continuous learning, I am passionate about applying theoretical knowledge to real-world challenges. Eager to further contribute and grow within an organization that fosters innovation and professional development. I am excited to leverage my skills and enthusiasm to make a meaningful impact in the technology industry.</p>
+   <p>Hey, I’m Vidushi! I’m a Data Science Engineer at IKTARA Data Sciences, specializing in machine learning, web development, and data analysis. I completed my studies at Echelon Institute of Technology, Faridabad, and I hold a degree in Computer Science And Engineering.
+
+During my time at university, I conducted research under Dr. Monika Goyal and Dr. Stuti Saxena, focusing on emerging technologies and applications in data science. I published two research papers: "SVM-Based Framework for Breast Cancer Detection" and "Analysing the Causes of Mood Disorders: A Comprehensive Study."
+
+As a GDSC Lead at the Google Developer Students Club, I lead tech initiatives and organize events like TECHLON, where my project won second place. I also write tech blogs on Hashnode, exploring topics in AI and NLP.
+
+In my free time, I enjoy exploring new technologies and contributing to open-source projects. Feel free to connect with me on LinkedIn!</p>
 
 <p align="center">
     Visitor count<br>
