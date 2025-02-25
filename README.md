@@ -1,15 +1,20 @@
 <p align="center">
-   <img align="center" src="https://firebasestorage.googleapis.com/v0/b/trychat-d3941.appspot.com/o/c30f5914-0089-45aa-977e-d64b5c953e3e?alt=media&token=0464b548-285d-4bbc-bd1a-f626551476a6" width="180%" height="160%" />
+  <img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/daa45011-5258-4539-8ff6-7079894a3884" />
+
 </p>
 <h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" height="20" > </h1>
-<h1 align="center"> It's Vidushi Gandhi, you are on my Github Profile</h1>
-   <p>Hey, I’m Vidushi! I’m a Data Science Engineer at IKTARA Data Sciences, specializing in machine learning, web development, and data analysis. I completed my studies at Echelon Institute of Technology, Faridabad, and I hold a degree in Computer Science And Engineering.
+<h2 align="center"> It's Vidushi Gandhi – Welcome to My GitHub Profile! </h1>
 
-During my time at university, I conducted research under Dr. Monika Goyal and Dr. Stuti Saxena, focusing on emerging technologies and applications in data science. I published two research papers: "SVM-Based Framework for Breast Cancer Detection" and "Analysing the Causes of Mood Disorders: A Comprehensive Study."
+**Hey there!** I'm **Vidushi Gandhi**, a **Data Science Engineer at IKTARA Data Sciences** with a passion for **machine learning, web development, and data analysis**.  
 
-As a GDSC Lead at the Google Developer Students Club, I lead tech initiatives and organize events like TECHLON, where my project won second place. I also write tech blogs on Hashnode, exploring topics in AI and NLP.
+I earned my **Computer Science and Engineering** degree from **Echelon Institute of Technology, Faridabad**. During my academic journey, I conducted research under **Dr. Monika Goyal and Dr. Stuti Saxena**, exploring cutting-edge applications in data science. My research led to the publication of two papers:  
 
-In my free time, I enjoy exploring new technologies and contributing to open-source projects. Feel free to connect with me on LinkedIn!</p>
+📌 **SVM-Based Framework for Breast Cancer Detection** (Published in Springer)  
+📌 **Analyzing the Causes of Mood Disorders: A Comprehensive Study**  
+
+Beyond work, I love **exploring new technologies** and **contributing to open-source projects**. Let's connect and collaborate!  
+
+🔗 **[Connect with me on LinkedIn](https://www.linkedin.com/in/vidushi-gandhi27/)**  
 
 <p align="center">
     Visitor count<br>
