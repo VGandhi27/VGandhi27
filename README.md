@@ -1,10 +1,10 @@
+<!-- Github Banner -->
 <p align="center">
   <img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/daa45011-5258-4539-8ff6-7079894a3884" />
-
 </p>
-<h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" height="20" > </h1>
-<h2 align="center"> It's Vidushi Gandhi – Welcome to My GitHub Profile! </h1>
 
+<!-- Brief Introduction-->
+<h2 align="center"> It's Vidushi Gandhi – Welcome to My GitHub Profile! </h1>
 **Hey there!** I'm **Vidushi Gandhi**, a **Data Science Engineer at IKTARA Data Sciences** with a passion for **machine learning, web development, and data analysis**.  
 
 I earned my **Computer Science and Engineering** degree from **Echelon Institute of Technology, Faridabad**. During my academic journey, I conducted research under **Dr. Monika Goyal and Dr. Stuti Saxena**, exploring cutting-edge applications in data science. My research led to the publication of two papers:  
@@ -24,6 +24,7 @@ Beyond work, I love **exploring new technologies** and **contributing to open-so
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1177F7&center=true&vCenter=true&width=700&height=100&lines=Hello!+I+am+Vidushi+Gandhi+;I+am+a+passionate+Software+Developer;I+like+to+build+products+to+solve++real+world+problems)](https://git.io/typing-svg)
 
 ---
+<!-- About me section -->
 
 ### :woman_technologist: &nbsp;About Me :
 
@@ -39,7 +40,7 @@ I am a Full Stack Developer specialised in Machine Learning and Artificial Intel
 
 
 ---
-
+<!-- Tech stack and tools section -->
 ### 🛠 &nbsp; I've worked with :
 
 <p>
@@ -65,6 +66,7 @@ I am a Full Stack Developer specialised in Machine Learning and Artificial Intel
 <img src="https://img.shields.io/badge/-MySQL-red?style=flat&logo=MySQL&logoColor=white" **alt="mysql" title="mysql"  />  &nbsp;</p> 
 
 ---
+<!-- Github stats about my usage section -->
 
 ### 🔥 &nbsp; My Stats :
 
@@ -92,19 +94,13 @@ I am a Full Stack Developer specialised in Machine Learning and Artificial Intel
    
    ---  
   
-<!-- ### 💻 My Github Profile Badges 🥇:
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=vgandhi27&column=8&theme=gruvbox&no-frame=true"/>
-</a>
 
-
---- -->
 
 ### 💻 My Hacktoberfest-2023 OpenSource Contribution Profile Badges 🥇:
 
 [![@vgandhi27's Holopin board](https://holopin.me/@vgandhi27)](https://holopin.io/@vgandhi27)
 ---
-
+<!-- Github metrics section  -->
 ### 💻 My Github Metrics :
 
 <img align="right" width="300" height="300" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>
@@ -112,7 +108,7 @@ I am a Full Stack Developer specialised in Machine Learning and Artificial Intel
 ![GitHub metrics](https://metrics.lecoq.io/vgandhi27)  
 
 ---
-
+<!-- Random developer quotes section  -->
 ### ✍️ Random Dev Quotes
 
 <img align="right" height="100" width="100" src="https://customsitesmedia.usc.edu/wp-content/uploads/sites/308/2016/10/17131545/tumblr_o7jfjpvlny1tbhzhno1_500.gif" width="930"/>
@@ -120,6 +116,7 @@ I am a Full Stack Developer specialised in Machine Learning and Artificial Intel
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+<!-- Blog Post section  -->
 
 ### ✍️ Blog Posts : 
 - [Tech Obsession: Lessons Learned At GDSC WOW Delhi NCR](https://medium.com/@curiousvidushi27/tech-obsession-lessons-learned-at-gdsc-wow-delhi-ncr-38929018e502)
@@ -132,7 +129,7 @@ I am a Full Stack Developer specialised in Machine Learning and Artificial Intel
 
 ---
 
-
+<!-- Research paper section  -->
 ### ✍️ Research Paper : 
 - [Analysing the causes of Mood Disorders: A Comprehensive Study](https://ijcmps.mstrust.in/Files/Vol/Issue/ijcmps-6-1-1.pdf)
   
