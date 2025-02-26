@@ -4,9 +4,9 @@
 </p>
 
 <!-- Brief Introduction-->
-<h2 align="center"> It's Vidushi Gandhi – Welcome to My GitHub Profile! </h1>
-**Hey there!** I'm **Vidushi Gandhi**, a **Data Science Engineer at IKTARA Data Sciences** with a passion for **machine learning, web development, and data analysis**.  
+<h2 align="center"> It's Vidushi Gandhi – Welcome to My GitHub Profile! </h1>  
 
+I'm **Vidushi Gandhi**, a **Data Science Engineer at IKTARA Data Sciences** with a passion for **machine learning, web development, and data analysis**.  
 I earned my **Computer Science and Engineering** degree from **Echelon Institute of Technology, Faridabad**. During my academic journey, I conducted research under **Dr. Monika Goyal and Dr. Stuti Saxena**, exploring cutting-edge applications in data science. My research led to the publication of two papers:  
 
 📌 **SVM-Based Framework for Breast Cancer Detection** (Published in Springer)  
