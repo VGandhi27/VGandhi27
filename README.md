@@ -26,16 +26,25 @@ Beyond work, I love **exploring new technologies** and **contributing to open-so
 ---
 <!-- About me section -->
 
-### :woman_technologist: &nbsp;About Me :
+### 👩‍💻 About Me  
+I am a **Full Stack Developer** specializing in **Machine Learning and Artificial Intelligence** from India.  
 
-I am a Full Stack Developer specialised in Machine Learning and Artificial Intelligence <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+#### 🚀 What I Do:  
+- Passionate about solving real-world problems through technology.  
+- Currently working as a **Data Scientist at Iktara Data Sciences Pvt. Ltd.**  
+- Exploring and building innovative products across various domains.  
+- Writing technical blogs to share insights on emerging technologies.  
 
-- ⚡ I like to solve real-world problems with my skills by building great products
-- 🔭 I’m currently preparing for placements
-- 🌱 I like to explore working on different products 
-- ⚡ In my free time I like to write blogs on different technologies
-- 💬 Ask me about the recent products which I have explored and which I have found helpful.
-- 📫 How to reach me:
+#### 📌 Interests & Goals:  
+- Preparing for **placements and career growth** in Data Science & AI.  
+- Exploring cutting-edge tools and frameworks for AI-driven solutions.  
+- Engaging with the developer community to discuss impactful products.  
+
+#### 💬 Ask Me About:  
+- The latest products I’ve explored and found useful.  
+- My experience in **Machine Learning, AI, and Full Stack Development**.  
+
+#### 📫 How to Reach Me:  
  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-vidushi_gandhi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Vidushi-Gandhi27/)  <a href="https://www.instagram.com/vgandhi72/"><img src="https://img.shields.io/badge/-@vgandhi72-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;<a href="https://linktr.ee/vidushigandhi"><img src="https://img.shields.io/badge/-Vidushi Gandhi-Green?style=flat&logo=Linktree&logoColor=white"/></a> &nbsp;
 
 
