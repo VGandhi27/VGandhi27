@@ -1,6 +1,7 @@
 <!-- Github Banner -->
 <p align="center">
-  <img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/daa45011-5258-4539-8ff6-7079894a3884" />
+  <!-- <img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/daa45011-5258-4539-8ff6-7079894a3884" /> -->
+  <img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/8de83007-b174-4466-8bd5-b00ee9c1873a" />
 </p>
 
 <!-- Brief Introduction-->
